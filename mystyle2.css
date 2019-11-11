@@ -1,0 +1,81 @@
+
+
+
+img {
+   width:300px;
+   display: block;
+   margin-right: auto;
+}
+
+#image0{
+  margin-left: 00px;
+}
+#image1{
+  margin-left: 120px;
+}
+
+#image2{
+  margin-left: 120px;
+}
+
+#image3{
+  margin-left: 120px;
+}
+
+#image4{
+  margin-left: 120px;
+}
+
+#image5{
+  margin-left: 120px;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: Helvetica;
+  
+}
+
+h1 {
+  color: blueviolet;
+  margin-left: 120px;
+  margin-right: 120px;
+  text-align: left;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 12pt;
+}
+
+p {
+  color: black;
+  text-align: left;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 12pt;
+}
+
+a {
+  color: black;
+  text-align: left;
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 12pt;
+}
+.column {
+  float: left;
+  width: 10%;
+  padding: 10px;
+  height: 20px;
+  margin-left:10px;
+
+  .container {
+    width:100%; display:table; position:relative; height:100px;}
+.lines, .copy  {display:table-cell;vertical-align: middle;width:auto; }
+.copy {  white-space: nowrap; padding:3px; text-align:center; font-size:24px; width:40%;}
+.l1,.l2 {border-bottom:1px solid red; height:50px; 
+  }
